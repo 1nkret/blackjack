@@ -4,7 +4,7 @@
 - TeleBot
 - Random
 
-###Functions:
+### Functions:
 - The bot determines the language you set in the telegram and writes to you in it. There are 3 languages ​​in which you can get an answer:
   - English (EN)
   - Ukraine (UA/UK)
